@@ -1,4 +1,15 @@
-# IBM Developing AI Applications Using Python and Flask - Final Project
+#  Course Project: AI-based Emotion Detection Web App
+
+## By: Alysha Kim
+
+Last Updated: March 2025
+
+## Introduction
+This Project was completed as part of the [IBM Full Stack Software Developer Professional Certificate: IBM Developing AI Applications Using Python and Flask](https://www.coursera.org/account/accomplishments/professional-cert/Z511W9DZQBE2) course by coursera
+
+
+## About the Project
+- Starting project code is forked from [here](https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai)
 
 ## Using the Emotion Predict function of the Watson NLP Library:
 
